@@ -1,3 +1,9 @@
+@font-face {
+    font-family: "Fredoka One";
+    src: url("../font/fredoka/DVN-Fredoka-Bold.ttf");
+    font-style: normal;
+    font-weight: bold;
+}
 .elementor-widget-social-icons.elementor-grid-0 .elementor-widget-container,
 .elementor-widget-social-icons.elementor-grid-mobile-0
     .elementor-widget-container,
